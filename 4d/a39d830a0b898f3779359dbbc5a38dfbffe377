@@ -1,0 +1,29 @@
+pkg/rpc/auth/token_provider.go
+  s_537cab0ba39890::t_4f8cfa1c3efe49 1-23,29-30,34,52,56-60,62-65,68-73,77,79-81,86-89,95-96,100-101,108
+  s_537cab0ba39890::t_226bc1fc5a6c3b 61
+  s_537cab0ba39890::t_a30ed3826e1a0c 24-28,31-33,35-51,53-55,66-67,74-76,78,82-85,90,93-94,97-99,102-103,105-107
+  s_537cab0ba39890::t_7bf7cce762614b 91-92,104
+scheduler/scheduler.go
+  s_537cab0ba39890::t_56d769bf727eb0 326-327,337,339-340
+pkg/rpc/auth/interceptor.go
+  s_537cab0ba39890::t_4095f3393375fc 164-167,169,178-181,183
+pkg/rpc/auth/token_provider_test.go
+  s_537cab0ba39890::t_28d1e2045ccbe2 1-59,62-67,69-71,73-75,78-86,88,91-94,100-166
+  s_537cab0ba39890::t_ae98aac4664f1e 60-61,68,72,76-77,87,89-90,95-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4da39d830a0b898f3779359dbbc5a38dfbffe377",
+  "prompts": {},
+  "sessions": {
+    "s_537cab0ba39890": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "a94f64b7-42da-4cc8-8ea6-90e6bee8db48",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
