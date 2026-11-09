@@ -1,0 +1,33 @@
+.github/workflows/e2e.yml
+  s_537cab0ba39890::t_7d06170a540b15 38
+  s_537cab0ba39890::t_1818518d571d3b 42,46
+docs/security/grpc-jwt-authentication.md
+  s_537cab0ba39890::t_e50a93ff9d9bd2 4-6,12-19,25-26,28-37,40,42-49,51-53,55-66,68-70,72-83,89-92,95-110,113-114,123-139,143-144,152-153
+test/testdata/charts/config-jwt-auth.yaml
+  s_537cab0ba39890::t_ad9fe09a51f3ce 1-103
+.github/workflows/e2e-grpc-auth.yml
+  s_537cab0ba39890::t_a839b18ec876e0 1-38,40-150
+  s_537cab0ba39890::t_d65152af96aafa 39
+test/e2e/grpc_auth_test.go
+  s_537cab0ba39890::t_5f6ec0e2ec841c 125
+  s_537cab0ba39890::t_059147b5f34030 1-19,21-26,31,35-46,48-51,55-56,58-59,63-69,72-76,78-84,90-97,126-128
+  s_537cab0ba39890::t_0093a04b6d624b 20,27-30,32-34,47,52,57,60-62,70-71,77,85-89,98-110,112-124
+  s_537cab0ba39890::t_4b966a687bc870 53-54
+  s_537cab0ba39890::t_fdd9357ec61b42 111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ea6bb77dc03611efeffcf15282b60db5afb92720",
+  "prompts": {},
+  "sessions": {
+    "s_537cab0ba39890": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "a94f64b7-42da-4cc8-8ea6-90e6bee8db48",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
